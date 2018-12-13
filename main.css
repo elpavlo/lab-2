@@ -1,0 +1,16 @@
+.tree span:hover{
+	font-weight:bold;
+}
+.tree span{
+      cursor: pointer;
+}
+.cl{
+	list-style-type:none;
+}
+.cl:before{
+	content:"▼";
+}
+#ri{
+	margin-left:17px;
+	list-style-type:square;
+}
